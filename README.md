@@ -21,7 +21,8 @@ similar situations, and the opposite if its repulsed. This allows the system to 
 change its own environment through its actions so that it can bring about situations it likes
 and avoid situations it dislikes.
 
-The project is written in C++ for the Windows operating system and is, again, in the early 
-stages of development. A UI is currently being designed to allow for interaction between a user 
+The project is written in C++ for the Windows operating system. It relies on OpenCV and
+WxWidgets. A UI is currently being designed to allow for interaction between a user 
 and the system, but it's not functional yet. This code is provided to you as-is with no 
-guarantee that it will work or even that it may not damage your computer.
+guarantee that it will work or even that it may not damage your computer. No releases have
+been developed yet as of this writing.
