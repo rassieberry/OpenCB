@@ -1,0 +1,35 @@
+We're calling this Open Machine Value now.
+
+This is a new model of artificial intelligence aimed at mimicking the 
+ways in which human consciousness works. There is an important distinction to
+make, however. This mimicks "consciousness", but not our neurology. It aims to 
+use philosophy and psychology to understand and navigate the complexities and
+problems inherent in our conscious lives and to replicate that complexity, to
+the best of our ability, on a computer. 
+
+Because this project aims at mimicking
+consciousness and intelligence, rather than just performing actions which we
+have found to be necessary or helpful, a computer system using Computer Valuation
+may perform actions that are either of neutral or harmful value to human beings.
+It is not the goal of this project to create a kind of artificial intelligence
+which is helpful to humans, but simply to create a simulacra of ourselves on a 
+computer. Morality can be introduced into the system later, once its structure is
+complete.
+
+Also, if this project is successful, any articial intelligence created by this
+project can be duly considered to be a living being, and should be afforded a
+sense of human decency and rights. Deleting an artificial intelligence that is
+fully working and aware of its own existence can only be considered to be 
+killing it. Even just turning the power on and off on your machine might be
+considered to be unethical.
+
+
+TODO LIST
+
+- implement a way for it to pick the most important collections and relations
+to bring into memory when waking up from sleep
+- start working on the gui that will let the program output its actions and see them 
+actually do things
+- fix the plans system, it doesn't seem to be working. Ever. Not sure whats wrong with it yet.
+- keep track of how many events are in a collection, and find a way to cap them at a certain
+amount so that the collections dont keep building higher and higher
